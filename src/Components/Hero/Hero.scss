@@ -1,7 +1,8 @@
 .hero {
   display: flex;
   flex-direction: column;
-  padding: 26px;
+  align-items: center;
+  padding: 26px 26px 13px;
 
   .hero__photo {
     display: block;
